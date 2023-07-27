@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.9a1d6ce4.css",
-    "main.js": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.ae56a8f0.js",
+    "main.css": "/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.27f40f01.css",
+    "main.js": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.259637f3.js",
     "static/js/787.9434b3aa.chunk.js": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/787.9434b3aa.chunk.js",
     "static/media/background-home-desktop.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
     "static/media/background-destination-desktop.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
@@ -14,12 +14,12 @@
     "static/media/background-technology-tablet.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
     "static/media/background-destination-mobile.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
     "index.html": "/Space-tourism-website-main--React-Tailwind-Ts/index.html",
-    "main.9a1d6ce4.css.map": "/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.9a1d6ce4.css.map",
-    "main.ae56a8f0.js.map": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.ae56a8f0.js.map",
+    "main.27f40f01.css.map": "/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.27f40f01.css.map",
+    "main.259637f3.js.map": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.259637f3.js.map",
     "787.9434b3aa.chunk.js.map": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/787.9434b3aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a1d6ce4.css",
-    "static/js/main.ae56a8f0.js"
+    "static/css/main.27f40f01.css",
+    "static/js/main.259637f3.js"
   ]
 }
