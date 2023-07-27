@@ -1,0 +1,70 @@
+.nav--mobile-link::after
+{
+    content: "";
+    display: block;
+    align-items: center;
+    position: absolute;
+    top: -5px;
+    right: 0px;
+    height: 0px;
+    width: 5px;
+    transition: .4s;
+}
+
+
+.nav--mobile-link:hover::after
+{
+    display: block;
+    height: 40px;
+    background-color: rgba(255, 255, 255, .3);
+}
+
+.nav--mobile-link.nav--mobile-active-link::after
+{
+    display: block;
+    height: 40px;
+    background-color: white;
+}
+
+@keyframes showAsideNav {
+    0%
+    {
+        max-width: 0;
+    }
+    100%
+    {
+        max-width: 100%;
+    }
+}
+
+.aside--mobile-navigation
+{
+    animation: showAsideNav .4s linear;
+}
+
+.nav--desktop-link::after
+{
+    content: "";
+    display: block;
+    align-items: center;
+    position: relative;
+    bottom: -31px;
+    right: 0px;
+    height: 4px;
+    width: 0%;
+    transition: .4s;
+}
+
+.nav--desktop-link:hover::after
+{
+    display: block;
+    width: 100%;
+    background-color: rgba(255, 255, 255, .3);
+}
+
+.nav--desktop-link.nav--desktop-active-link::after
+{
+    display: block;
+    width: 100%;
+    background-color: white;
+}

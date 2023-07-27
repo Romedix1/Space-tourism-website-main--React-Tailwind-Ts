@@ -1,0 +1,24 @@
+@import "../Setup.css";
+
+.technology--container
+{
+    background: url(../../public/images/technology/background-technology-mobile.jpg) no-repeat center/cover fixed;
+    min-height: 100vh;
+}
+
+
+@media (min-width: 640px) {
+    .technology--container
+    {
+        background: url(../../public/images/technology/background-technology-tablet.jpg) no-repeat center/cover fixed;
+        min-height: 100vh;
+    }
+}
+
+@media (min-width: 1024px) {
+    .technology--container
+    {
+        background: url(../../public/images/technology/background-technology-desktop.jpg) no-repeat center/cover fixed;
+        min-height: 100vh;
+    }
+}
