@@ -17,7 +17,7 @@ export default function Nav() {
 
           <ul className="mt-24 ml-8 text-TertiaryColor font-Barlow uppercase">
             <li className=" text-xl mb-8 relative cursor-pointer"><NavLink className={({ isActive }) =>
-            isActive ? 'nav--mobile-active-link  nav--mobile-link' : 'nav--mobile-link'} to="/"><span className="font-bold mr-4">00</span> Home</NavLink></li>
+            isActive ? 'nav--mobile-active-link  nav--mobile-link' : 'nav--mobile-link'} to="Space-tourism-website-main--React-Tailwind-Ts/"><span className="font-bold mr-4">00</span> Home</NavLink></li>
 
             <li className="text-xl mb-8 relative cursor-pointer"><NavLink className={({ isActive }) =>
             isActive ? 'nav--mobile-active-link nav--mobile-link' : ' nav--mobile-link'} to="/Destination"><span className="font-bold mr-4">01</span> Destination</NavLink></li>
