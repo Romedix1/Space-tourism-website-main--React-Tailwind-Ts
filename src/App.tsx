@@ -1,5 +1,6 @@
 import React, { useEffect, useState} from 'react';
-import { Route, Link, Routes, BrowserRouter } from "react-router-dom";
+import { Route, Link, Routes, HashRouter, BrowserRouter } from "react-router-dom";
+import Nav from './Components/Nav'
 import Home from './Components/Subpages/Home';
 import Destination from './Components/Subpages/Destination';
 import Crew from './Components/Subpages/Crew';
@@ -10,14 +11,14 @@ function App() {
 
   return (
     <>
-      <BrowserRouter basename='/Space-tourism-website-main--React-Tailwind-Ts'>
+      <HashRouter>
         <Routes>
-          <Route path="/Space-tourism-website-main--React-Tailwind-Ts" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/Destination" element={<Destination />} />
           <Route path="/Crew" element={<Crew />} />
           <Route path="/Technology" element={<Technology />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
