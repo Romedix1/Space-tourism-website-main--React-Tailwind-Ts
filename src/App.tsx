@@ -11,14 +11,12 @@ function App() {
 
   return (
     <>
-      <HashRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Destination" element={<Destination />} />
           <Route path="/Crew" element={<Crew />} />
           <Route path="/Technology" element={<Technology />} />
         </Routes>
-      </HashRouter>
     </>
   );
 }
