@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.4a769900.css",
-    "main.js": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.a5d90eba.js",
+    "main.js": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.ac51b110.js",
     "static/js/787.9434b3aa.chunk.js": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/787.9434b3aa.chunk.js",
     "static/media/background-home-desktop.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
     "static/media/background-destination-desktop.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
@@ -15,11 +15,11 @@
     "static/media/background-destination-mobile.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
     "index.html": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/index.html",
     "main.4a769900.css.map": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.4a769900.css.map",
-    "main.a5d90eba.js.map": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.a5d90eba.js.map",
+    "main.ac51b110.js.map": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.ac51b110.js.map",
     "787.9434b3aa.chunk.js.map": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/787.9434b3aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a769900.css",
-    "static/js/main.a5d90eba.js"
+    "static/js/main.ac51b110.js"
   ]
 }
