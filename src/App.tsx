@@ -10,9 +10,9 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename='/Space-tourism-website-main--React-Tailwind-Ts'>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Space-tourism-website-main--React-Tailwind-Ts" element={<Home />} />
           <Route path="/Destination" element={<Destination />} />
           <Route path="/Crew" element={<Crew />} />
           <Route path="/Technology" element={<Technology />} />
