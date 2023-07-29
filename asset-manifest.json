@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.4a769900.css",
-    "main.js": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.6d4a8b37.js",
-    "static/js/787.9434b3aa.chunk.js": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/787.9434b3aa.chunk.js",
-    "static/media/background-home-desktop.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
-    "static/media/background-destination-desktop.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
-    "static/media/background-home-tablet.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
-    "static/media/background-crew-desktop.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg",
-    "static/media/background-destination-tablet.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-tablet.8f55d346d8b6cfd95ab7.jpg",
-    "static/media/background-technology-desktop.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
-    "static/media/background-crew-tablet.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-crew-tablet.16d51cf61e98ce45eb61.jpg",
-    "static/media/background-home-mobile.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
-    "static/media/background-technology-tablet.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
-    "static/media/background-destination-mobile.jpg": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
-    "index.html": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/index.html",
-    "main.4a769900.css.map": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.4a769900.css.map",
-    "main.6d4a8b37.js.map": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.6d4a8b37.js.map",
-    "787.9434b3aa.chunk.js.map": "/Romedix1/Space-tourism-website-main--React-Tailwind-Ts/static/js/787.9434b3aa.chunk.js.map"
+    "main.css": "/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.27f40f01.css",
+    "main.js": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.d00804ad.js",
+    "static/js/787.9434b3aa.chunk.js": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/787.9434b3aa.chunk.js",
+    "static/media/background-home-desktop.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
+    "static/media/background-destination-desktop.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
+    "static/media/background-home-tablet.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
+    "static/media/background-crew-desktop.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg",
+    "static/media/background-destination-tablet.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-tablet.8f55d346d8b6cfd95ab7.jpg",
+    "static/media/background-technology-desktop.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
+    "static/media/background-crew-tablet.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-crew-tablet.16d51cf61e98ce45eb61.jpg",
+    "static/media/background-home-mobile.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
+    "static/media/background-technology-tablet.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
+    "static/media/background-destination-mobile.jpg": "/Space-tourism-website-main--React-Tailwind-Ts/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
+    "index.html": "/Space-tourism-website-main--React-Tailwind-Ts/index.html",
+    "main.27f40f01.css.map": "/Space-tourism-website-main--React-Tailwind-Ts/static/css/main.27f40f01.css.map",
+    "main.d00804ad.js.map": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/main.d00804ad.js.map",
+    "787.9434b3aa.chunk.js.map": "/Space-tourism-website-main--React-Tailwind-Ts/static/js/787.9434b3aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a769900.css",
-    "static/js/main.6d4a8b37.js"
+    "static/css/main.27f40f01.css",
+    "static/js/main.d00804ad.js"
   ]
 }
